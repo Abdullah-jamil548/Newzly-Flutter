@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659453986642",
+    "project_id": "mygpaa-a67b7",
+    "storage_bucket": "mygpaa-a67b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659453986642:android:2cf42ac14de47b61305c8b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg16krfnd2meOHwOLWgikGjEjBmXyi12E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659453986642:android:86df4c76811b0467305c8b",
+        "android_client_info": {
+          "package_name": "com.example.newspaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg16krfnd2meOHwOLWgikGjEjBmXyi12E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
