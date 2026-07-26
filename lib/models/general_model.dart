@@ -6,7 +6,7 @@ class generalnews with ChangeNotifier{
   Future<void> getData() async {
     try {
       var response = await get(
-        Uri.parse("https://newsapi.org/v2/everything?domains=techcrunch.com,thenextweb.com&apiKey=4d0a4436a06946678895584c8c2eab90"),
+        Uri.parse( "https://newsapi.org/v2/everything?domains=techcrunch.com,thenextweb.com&apiKey=$apiKey"),
       );
       print("api: ${response.statusCode}");
       var data = jsonDecode(response.body);
